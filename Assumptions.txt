@@ -1,0 +1,7 @@
+Assumptions
+1. File is a space separated
+2. File contains numbers only
+3. File should contain only one line. If more than one line are present in the file, only the first line will be used.
+    Rest of the lines will be ignored. 
+4. Delivery person always starts on the north side even if there are no houses on the north side.
+    If there are no houses on the south side the delivery person will not cross the street.

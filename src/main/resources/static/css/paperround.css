@@ -1,0 +1,12 @@
+.container {
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.multi_lines_text {
+    white-space: pre-line;
+}
+
+.form-horizontal .control-label {
+    text-align: left !important;
+}
