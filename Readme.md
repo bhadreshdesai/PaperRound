@@ -1,6 +1,6 @@
 # Paper Round
 
-A sample town planning and paper delivery program using AngularJS and Spring Boot.
+A sample town planning and paper delivery application using AngularJS and Spring Boot.
 Project uses junit and cucumber for running unit tests.
 Project uses jacoco for code coverage.
 
