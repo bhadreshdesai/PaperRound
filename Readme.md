@@ -1,7 +1,9 @@
 # Paper Round
 
 A sample town planning and paper delivery application using AngularJS and Spring Boot.
+
 Project uses junit and cucumber for running unit tests.
+
 Project uses jacoco for code coverage.
 
 
@@ -13,6 +15,7 @@ These instructions will get the project up and running on your local machine
 ### Prerequisites
 
 Java 8+
+
 Maven (optional, you can use maven wrapper)
 
 Note: If you done have have maven installed on your machine replace all mvn command below with mvnw
