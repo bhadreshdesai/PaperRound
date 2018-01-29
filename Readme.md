@@ -37,7 +37,7 @@ Cucumber report - ./target/cucumber-html-reports/overview-features.html
 ### Running the application
 
 ```
-mvnw spring-boot:run
+mvn spring-boot:run
 ```
 
 Navigate to [http://localhost:8080](http://localhost:8080) in a browser
